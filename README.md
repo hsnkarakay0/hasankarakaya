@@ -1,114 +1,202 @@
-<h1 align="center">👋 Hasan Karakaya</h1>
-<h3 align="center">IT Technician | System & Network Enthusiast | Cybersecurity Learner</h3>
+
+<h1 align="center">Hasan Karakaya</h1>
+
+<h3 align="center">
+IT Systems & Infrastructure | Network Security | AI Automation
+</h3>
 
 <p align="center">
-  <a href="mailto:hasankarakaya701@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hasankarakaya701%40gmail.com-red?style=flat&logo=gmail">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=IT+Systems+%26+Infrastructure;Windows+Server+%26+Active+Directory;VMware+%26+Network+Security;Building+AI-Powered+Infrastructure" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/hasan-k-144511197/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hasan%20Karakaya-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:hasankarakaya701@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hsnkarakay0&style=for-the-badge&color=0891b2"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+IT professional with hands-on experience in enterprise infrastructure, system administration, virtualization, network security and IT operations.
+
+Passionate about building reliable systems, automating infrastructure processes and integrating artificial intelligence into traditional IT environments.
+
+- 🌍 Based in Istanbul, Türkiye
+- 🖥️ Enterprise IT Infrastructure & System Administration
+- 🌐 Network Management & Firewall Security
+- ⚙️ Infrastructure Automation & PowerShell
+- 🤖 Local AI Agents & Intelligent IT Operations
+- 🧪 Dedicated Home-Lab Environment
+
+> Building systems. Automating operations. Engineering the future.
+
+---
+
+## 🚀 Featured Project — NEXUS AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version-4.1-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Local%20LLM-purple?style=for-the-badge"/>
+</p>
+
+**NEXUS AI** is a voice-controlled artificial intelligence agent designed for VMware infrastructure automation.
+
+### Core Capabilities
+
+- Turkish voice recognition and speech synthesis
+- Local LLM integration with Ollama and Qwen
+- VMware ESXi API integration
+- Virtual machine provisioning
+- Datastore and ISO discovery
+- Infrastructure monitoring
+- Human-approved infrastructure operations
+
+### Technology Stack
+
+`Python` `VMware ESXi` `pyVmomi` `Ollama` `Whisper` `Qwen`
+
+[![View Repository](https://img.shields.io/badge/View%20Project-NEXUS%20AI-181717?style=for-the-badge&logo=github)](https://github.com/hsnkarakay0/NEXUS)
+
+---
+
+## 🛠️ Technical Expertise
+
+### Systems & Virtualization
+
+<p>
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+
+- Windows Server 2016 / 2019
+- Active Directory, DNS, DHCP and Group Policy
+- VMware ESXi & vCenter
+- Hyper-V Virtualization
+- Linux Server Administration
+
+### Network & Cybersecurity
+
+<p>
+<img src="https://img.shields.io/badge/Sophos-005BC8?style=for-the-badge&logo=sophos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firewall-Security-DC2626?style=for-the-badge"/>
+</p>
+
+- Firewall configuration and management
+- VLAN segmentation and network infrastructure
+- SSL VPN & IPsec VPN
+- Switching, routing and wireless infrastructure
+- Endpoint security and security policy management
+
+### Backup, Monitoring & ITSM
+
+<p>
+<img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GLPI-3869B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=black"/>
+</p>
+
+- Backup infrastructure and recovery operations
+- Infrastructure monitoring
+- IT asset management
+- Helpdesk and IT service management
+- Technical documentation and audit preparation
+
+### Automation & Artificial Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+- Active Directory automation
+- GPO deployment and management
+- Infrastructure API integration
+- Local language models
+- Voice-controlled AI agents
+- Automated inventory and reporting
+
+---
+
+## 🧪 Home-Lab Infrastructure
+
+```yaml
+Hardware:
+  Platform: Dell PowerEdge R210
+
+Virtualization:
+  Hypervisor: VMware ESXi
+  Secondary: Microsoft Hyper-V
+
+Services:
+  - Active Directory
+  - DNS & DHCP
+  - Windows Server
+  - Virtual Machine Management
+  - Infrastructure Automation
+
+Artificial_Intelligence:
+  Runtime: Ollama
+  Model: Qwen 2.5
+  Speech_Recognition: Whisper
+  Project: NEXUS AI
+```
+
+---
+
+## 📂 Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [NEXUS AI](https://github.com/hsnkarakay0/NEXUS) | AI-powered VMware infrastructure automation | In Development |
+| [CareerOps](https://github.com/hsnkarakay0/CareerOps) | Career-oriented software project | Repository |
+| AD Automation | Active Directory and GPO automation | Planned |
+| Infrastructure Dashboard | Centralized infrastructure management | Planned |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hsnkarakay0&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnkarakay0&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasankarakaya&label=Profile%20Views&color=0e75b6&style=flat">
-</p>
-
----
-
-## 🇹🇷 Hakkımda
-
-- 💼 **Bilgi İşlem / IT Technician** olarak çalışıyorum  
-- 🖥️ **Windows Server & Active Directory** ortamlarında aktif görev alıyorum  
-- 🔐 **Firewall, Network ve Güvenlik** alanlarında kendimi geliştiriyorum  
-- 🧪 Ev ortamında **lab** kurarak gerçek senaryolar üzerinde çalışıyorum  
-- 🎯 Hedefim: **System Administrator → Cybersecurity**
-
----
-
-## 🇬🇧 About Me
-
-- 💼 Working as an **IT Technician / Helpdesk**  
-- 🖥️ Hands-on experience with **Windows Server & Active Directory**  
-- 🔐 Improving skills in **Network & Firewall Security**  
-- 🧪 Building **home-lab environments** for real-world scenarios  
-- 🎯 Career goal: **System Administrator → Cybersecurity Specialist**
-
----
-
-## 🛠️ Technical Skills
-
-### 🖥️ Operating Systems & Servers
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows)
-
-- Windows 10 / 11  
-- Windows Server 2016 / 2019  
-- Active Directory (User, OU, GPO)  
-- Hyper-V (VM, Snapshot, Network)
-
----
-
-### 🌐 Network & Security
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=flat&logo=microsoft)
-![Firewall](https://img.shields.io/badge/Firewall-Security-red?style=flat&logo=fortinet)
-![VPN](https://img.shields.io/badge/VPN-Secure-green?style=flat&logo=wireguard)
-
-- Sophos & FortiGate Firewall (Basic–Intermediate)  
-- SSL VPN / FortiClient  
-- TCP/IP, DNS, DHCP, VLAN  
-- MITM attack awareness & prevention  
-
----
-
-### ⚙️ Scripting & Tools
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell)
-![CMD](https://img.shields.io/badge/CMD-Terminal-black?style=flat&logo=windows-terminal)
-
-- PowerShell (AD automation, reporting)  
-- Batch scripting (.bat)  
-- Network diagnostics & troubleshooting
-
----
-
-## 🧪 Lab & Learning Areas
-
-- 🧩 Domain Controller & Client Scenarios  
-- 🔄 User / Computer lifecycle simulations  
-- 🔐 Firewall rule & VPN scenarios  
-- 📊 Log analysis & troubleshooting  
-- ⚙️ IT automation with scripts  
-
----
-
-## 📂 Featured Projects (Coming Soon 🚀)
-
-- 🔹 **Active Directory Automation Scripts**  
-- 🔹 **IT Troubleshooting Playbooks**  
-- 🔹 **Home-Lab Infrastructure Scenarios**
-
-*(Projeler eklendikçe güncellenecek)*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasankarakaya&show_icons=true&theme=tokyonight">
+<img src="https://streak-stats.demolab.com?user=hsnkarakay0&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasankarakaya&theme=tokyonight">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hsnkarakay0&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Contact
+<h3 align="center">Professional Focus</h3>
 
-- 📧 **Email:** hasankarakaya701@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/hasan-k-144511197/
+<p align="center">
+System Administration • Network Security • Virtualization
+<br/>
+Infrastructure Automation • Artificial Intelligence
+</p>
 
 ---
 
-> 💬 *“Good systems are built.  
-> Great systems are understood.”*
+<p align="center">
+  <i>"Good systems are built. Great systems are understood."</i>
+</p>
